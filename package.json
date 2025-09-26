@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
+    "dexie": "^4.2.0",
+    "dexie-react-hooks": "4.2.0",
+    "html-to-image": "1.11.13",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.13"
